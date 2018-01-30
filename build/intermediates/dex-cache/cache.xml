@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Payment\molpay-mobile-xdk-android-master\YJJK\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\Payment\molpay-mobile-xdk-android-master\YJJK\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cd4d540ab065d9fa2f5f1e75b87b1648c056aace\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\fef2bdcdb18af805fd3e9339b365f1e8e51f3081\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="D:\Payment\molpay-mobile-xdk-android-master\YJJK\app\build\intermediates\pre-dexed\debug\classes_0993b2cd920604f3b3f599bffb753cd80a356a71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\1be5d88c59d3fc61e4954883228c046e16b8f32d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="23a2f2c8b39a0d679ce90a771dac4cb29ee27638">
+        <dex dex="D:\Payment\molpay-mobile-xdk-android-master\YJJK\app\build\intermediates\pre-dexed\debug\classes_3b03531307b9db2b680d434595b07a0d594408a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\51e426b18df481a296ea632fb17818cf8a902990\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="D:\Payment\molpay-mobile-xdk-android-master\YJJK\app\build\intermediates\pre-dexed\debug\classes_3dda9b5076a2a9a617fdc53fbcd43305aa6c95b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\a0c798b18d922a9726781e7dc6628ea392b84f6a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="474cccf169297d49fff89fd35b7634a7a9d1031c">
+        <dex dex="D:\Payment\molpay-mobile-xdk-android-master\YJJK\app\build\intermediates\pre-dexed\debug\classes_114a22d6cca981d6284429e7a720e9af09181a1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\9d13938233c2744785fea5e1edc17fd4a9ec6ae6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="20e6d443b368a3cbcfd9121e6f424708e772967e">
+        <dex dex="D:\Payment\molpay-mobile-xdk-android-master\YJJK\app\build\intermediates\pre-dexed\debug\classes_ea8e48772b8bef76fbdd0e8437e0e1e6fd3868a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\3069817adfc7e0d79fe57789ca13a8bb2109622b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d3f8ab57967a9149262ad36a46477fc2515f6ac8">
+        <dex dex="D:\Payment\molpay-mobile-xdk-android-master\YJJK\app\build\intermediates\pre-dexed\debug\classes_8e3bb7e79112fc6cda6e1a68e9694387363081a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\197424a5a549445e17cfda53722f1d92cafcc3bc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb100e0d1029146512605f99d8a5e193d3cb05d2">
+        <dex dex="D:\Payment\molpay-mobile-xdk-android-master\YJJK\app\build\intermediates\pre-dexed\debug\classes_00d798cd1c9b848613e375dc154bba81330e508d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Payment\molpay-mobile-xdk-android-master\YJJK\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8eef43a561b35c551d3468cc5a31514d0db5887d">
+        <dex dex="D:\Payment\molpay-mobile-xdk-android-master\YJJK\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c6c0ce8258857b9107bf00c235b5c6f0b35057e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="D:\Payment\molpay-mobile-xdk-android-master\YJJK\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_d943d39588748ee1117c83ea9058a2d6416cb70b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\45a1ebb92c0de31b746e7ccc6cd809a905a72eb4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="D:\Payment\molpay-mobile-xdk-android-master\YJJK\app\build\intermediates\pre-dexed\debug\classes_5679b95051a9308a832eda1f943a35b573b015f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\ae676ba6992706b66645793fb829049fbf605029\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1478a113f04bf0b679037b4f6bd88bd1837b96a3">
+        <dex dex="D:\Payment\molpay-mobile-xdk-android-master\YJJK\app\build\intermediates\pre-dexed\debug\classes_f53083a4747bbf25f470ab7258d9c17f0d794422.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\1431f3234ea06c00394abf66eea63d790cb14ef6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="D:\Payment\molpay-mobile-xdk-android-master\YJJK\app\build\intermediates\pre-dexed\debug\classes_90bab64666f494010cc981483642bb870893644a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\Payment\molpay-mobile-xdk-android-master\YJJK\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_e967602cedb3cdf27c5916205188b8064fdde338.jar" />
+    </item>
+
+</items>
